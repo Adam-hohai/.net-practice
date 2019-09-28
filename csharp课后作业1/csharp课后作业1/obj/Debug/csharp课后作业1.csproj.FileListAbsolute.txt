@@ -1,0 +1,6 @@
+F:\c#\csharp课后作业1\csharp课后作业1\bin\Debug\csharp课后作业1.exe.config
+F:\c#\csharp课后作业1\csharp课后作业1\bin\Debug\csharp课后作业1.exe
+F:\c#\csharp课后作业1\csharp课后作业1\bin\Debug\csharp课后作业1.pdb
+F:\c#\csharp课后作业1\csharp课后作业1\obj\Debug\csharp课后作业1.csprojResolveAssemblyReference.cache
+F:\c#\csharp课后作业1\csharp课后作业1\obj\Debug\csharp课后作业1.exe
+F:\c#\csharp课后作业1\csharp课后作业1\obj\Debug\csharp课后作业1.pdb
