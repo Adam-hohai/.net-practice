@@ -1,0 +1,6 @@
+F:\c#\csharp课后作业\矩阵\矩阵\bin\Debug\矩阵.exe.config
+F:\c#\csharp课后作业\矩阵\矩阵\obj\Debug\矩阵.csprojResolveAssemblyReference.cache
+F:\c#\csharp课后作业\矩阵\矩阵\bin\Debug\矩阵.exe
+F:\c#\csharp课后作业\矩阵\矩阵\bin\Debug\矩阵.pdb
+F:\c#\csharp课后作业\矩阵\矩阵\obj\Debug\矩阵.exe
+F:\c#\csharp课后作业\矩阵\矩阵\obj\Debug\矩阵.pdb
