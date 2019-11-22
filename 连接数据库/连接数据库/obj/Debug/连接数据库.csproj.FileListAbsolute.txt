@@ -1,0 +1,10 @@
+F:\c#\csharp课后作业\连接数据库\连接数据库\bin\Debug\连接数据库.exe.config
+F:\c#\csharp课后作业\连接数据库\连接数据库\bin\Debug\连接数据库.exe
+F:\c#\csharp课后作业\连接数据库\连接数据库\bin\Debug\连接数据库.pdb
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.csprojResolveAssemblyReference.cache
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.Form1.resources
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.Properties.Resources.resources
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.csproj.GenerateResource.Cache
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.exe
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.pdb
+F:\c#\csharp课后作业\连接数据库\连接数据库\obj\Debug\连接数据库.Form2.resources
